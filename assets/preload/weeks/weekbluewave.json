@@ -1,0 +1,32 @@
+{
+	"storyName": "(Banner thing is oudated)",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "blue",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "weektap",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"bluewave",
+			"bluerevamp",
+			[
+				0,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "a",
+	"hiddenUntilUnlocked": true
+}

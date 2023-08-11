@@ -1,0 +1,32 @@
+{
+	"storyName": "Blue's Bash!",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "demo",
+	"weekBefore": "weekdemo",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"tentarachnophobia",
+			"blue",
+			[
+				0,
+				0,
+				113
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": true,
+	"weekName": ""
+}

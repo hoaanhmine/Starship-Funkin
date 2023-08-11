@@ -1,0 +1,50 @@
+{
+	"storyName": "Blue's Bash!",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "demo",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"dub",
+			"bluerevamp",
+			[
+				46,
+				113,
+				253
+			]
+		],
+		[
+			"rays",
+			"blue",
+			[
+				46,
+				113,
+				253
+			]
+		],
+		[
+			"relief",
+			"blue",
+			[
+				46,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "",
+	"hiddenUntilUnlocked": false
+}

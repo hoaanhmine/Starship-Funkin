@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Orange.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="OrangeIdle instance 10000" x="0" y="0" width="387" height="479"/>
+	<SubTexture name="OrangeIdle instance 10001" x="0" y="0" width="387" height="479"/>
+	<SubTexture name="OrangeIdle instance 10002" x="387" y="0" width="387" height="479"/>
+	<SubTexture name="OrangeIdle instance 10003" x="387" y="0" width="387" height="479"/>
+	<SubTexture name="OrangeIdle instance 10004" x="774" y="0" width="387" height="479"/>
+	<SubTexture name="OrangeIdle instance 10005" x="774" y="0" width="387" height="479"/>
+	<SubTexture name="OrangeIdle instance 10006" x="1161" y="0" width="387" height="479"/>
+	<SubTexture name="OrangeIdle instance 10007" x="1161" y="0" width="387" height="479"/>
+	<SubTexture name="OrangeIdle instance 10008" x="1548" y="0" width="387" height="479"/>
+	<SubTexture name="OrangeIdle instance 10009" x="1548" y="0" width="387" height="479"/>
+	<SubTexture name="OrangeIdle instance 10010" x="1548" y="0" width="387" height="479"/>
+	<SubTexture name="OrangeIdle instance 10011" x="1548" y="0" width="387" height="479"/>
+	<SubTexture name="OrangeIdle instance 10012" x="1548" y="0" width="387" height="479"/>
+	<SubTexture name="OrangeIdle instance 10013" x="1548" y="0" width="387" height="479"/>
+</TextureAtlas>

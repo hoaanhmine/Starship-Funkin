@@ -1,0 +1,324 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GF_ass_sets.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF Cheer0000" x="0" y="0" width="703" height="645"/>
+	<SubTexture name="GF Cheer0001" x="703" y="0" width="703" height="645"/>
+	<SubTexture name="GF Cheer0002" x="1406" y="0" width="703" height="645"/>
+	<SubTexture name="GF Cheer0003" x="2109" y="0" width="703" height="645"/>
+	<SubTexture name="GF Cheer0004" x="2812" y="0" width="703" height="645"/>
+	<SubTexture name="GF Cheer0005" x="2812" y="0" width="703" height="645"/>
+	<SubTexture name="GF Cheer0006" x="2812" y="0" width="703" height="645"/>
+	<SubTexture name="GF Cheer0007" x="2812" y="0" width="703" height="645"/>
+	<SubTexture name="GF Cheer0008" x="2812" y="0" width="703" height="645"/>
+	<SubTexture name="GF Cheer0009" x="2812" y="0" width="703" height="645"/>
+	<SubTexture name="GF Cheer0010" x="2812" y="0" width="703" height="645"/>
+	<SubTexture name="GF Cheer0011" x="2812" y="0" width="703" height="645"/>
+	<SubTexture name="GF Cheer0012" x="2812" y="0" width="703" height="645"/>
+	<SubTexture name="GF Cheer0013" x="2812" y="0" width="703" height="645"/>
+	<SubTexture name="GF Cheer0014" x="2812" y="0" width="703" height="645"/>
+	<SubTexture name="GF Cheer0015" x="2812" y="0" width="703" height="645"/>
+	<SubTexture name="GF Cheer0016" x="2812" y="0" width="703" height="645"/>
+	<SubTexture name="GF Cheer0017" x="2812" y="0" width="703" height="645"/>
+	<SubTexture name="GF Cheer0018" x="2812" y="0" width="703" height="645"/>
+	<SubTexture name="GF Cheer0019" x="2812" y="0" width="703" height="645"/>
+	<SubTexture name="GF Cheer0020" x="2812" y="0" width="703" height="645"/>
+	<SubTexture name="GF Cheer Mic0000" x="5604" y="1279" width="703" height="627"/>
+	<SubTexture name="GF Cheer Mic0001" x="5604" y="1279" width="703" height="627"/>
+	<SubTexture name="GF Cheer Mic0002" x="6307" y="1279" width="703" height="627"/>
+	<SubTexture name="GF Cheer Mic0003" x="7010" y="1279" width="703" height="627"/>
+	<SubTexture name="GF Cheer Mic0004" x="7010" y="1279" width="703" height="627"/>
+	<SubTexture name="GF Cheer Mic0005" x="7010" y="1279" width="703" height="627"/>
+	<SubTexture name="GF Cheer Mic0006" x="7010" y="1279" width="703" height="627"/>
+	<SubTexture name="GF Cheer Mic0007" x="7010" y="1279" width="703" height="627"/>
+	<SubTexture name="GF Cheer Mic0008" x="7010" y="1279" width="703" height="627"/>
+	<SubTexture name="GF Cheer Mic0009" x="7010" y="1279" width="703" height="627"/>
+	<SubTexture name="GF Cheer Mic0010" x="7010" y="1279" width="703" height="627"/>
+	<SubTexture name="GF Cheer Mic0011" x="7010" y="1279" width="703" height="627"/>
+	<SubTexture name="GF Cheer Mic0012" x="7010" y="1279" width="703" height="627"/>
+	<SubTexture name="GF Cheer Mic0013" x="7010" y="1279" width="703" height="627"/>
+	<SubTexture name="GF Cheer Mic0014" x="7010" y="1279" width="703" height="627"/>
+	<SubTexture name="GF Cheer Mic0015" x="7010" y="1279" width="703" height="627"/>
+	<SubTexture name="GF Cheer Mic0016" x="7010" y="1279" width="703" height="627"/>
+	<SubTexture name="GF Cheer Mic0017" x="7010" y="1279" width="703" height="627"/>
+	<SubTexture name="GF Cheer Mic0018" x="7010" y="1279" width="703" height="627"/>
+	<SubTexture name="GF Cheer Mic0019" x="7010" y="1279" width="703" height="627"/>
+	<SubTexture name="GF Cheer Mic0020" x="7010" y="1279" width="703" height="627"/>
+	<SubTexture name="GF Dancing Beat0000" x="3515" y="0" width="703" height="634"/>
+	<SubTexture name="GF Dancing Beat0001" x="4218" y="0" width="703" height="634"/>
+	<SubTexture name="GF Dancing Beat0002" x="4921" y="0" width="703" height="634"/>
+	<SubTexture name="GF Dancing Beat0003" x="5624" y="0" width="703" height="634"/>
+	<SubTexture name="GF Dancing Beat0004" x="6327" y="0" width="703" height="634"/>
+	<SubTexture name="GF Dancing Beat0005" x="7030" y="0" width="703" height="634"/>
+	<SubTexture name="GF Dancing Beat0006" x="0" y="645" width="703" height="634"/>
+	<SubTexture name="GF Dancing Beat0007" x="703" y="645" width="703" height="634"/>
+	<SubTexture name="GF Dancing Beat0008" x="703" y="645" width="703" height="634"/>
+	<SubTexture name="GF Dancing Beat0009" x="703" y="645" width="703" height="634"/>
+	<SubTexture name="GF Dancing Beat0010" x="1406" y="645" width="703" height="634"/>
+	<SubTexture name="GF Dancing Beat0011" x="1406" y="645" width="703" height="634"/>
+	<SubTexture name="GF Dancing Beat0012" x="1406" y="645" width="703" height="634"/>
+	<SubTexture name="GF Dancing Beat0013" x="2109" y="645" width="703" height="634"/>
+	<SubTexture name="GF Dancing Beat0014" x="2109" y="645" width="703" height="634"/>
+	<SubTexture name="GF Dancing Beat0015" x="2812" y="645" width="703" height="634"/>
+	<SubTexture name="GF Dancing Beat0016" x="3515" y="645" width="703" height="634"/>
+	<SubTexture name="GF Dancing Beat0017" x="4218" y="645" width="703" height="634"/>
+	<SubTexture name="GF Dancing Beat0018" x="4921" y="645" width="703" height="634"/>
+	<SubTexture name="GF Dancing Beat0019" x="5624" y="645" width="703" height="634"/>
+	<SubTexture name="GF Dancing Beat0020" x="6327" y="645" width="703" height="634"/>
+	<SubTexture name="GF Dancing Beat0021" x="7030" y="645" width="703" height="634"/>
+	<SubTexture name="GF Dancing Beat0022" x="0" y="1279" width="703" height="634"/>
+	<SubTexture name="GF Dancing Beat0023" x="0" y="1279" width="703" height="634"/>
+	<SubTexture name="GF Dancing Beat0024" x="0" y="1279" width="703" height="634"/>
+	<SubTexture name="GF Dancing Beat0025" x="703" y="1279" width="703" height="634"/>
+	<SubTexture name="GF Dancing Beat0026" x="703" y="1279" width="703" height="634"/>
+	<SubTexture name="GF Dancing Beat0027" x="703" y="1279" width="703" height="634"/>
+	<SubTexture name="GF Dancing Beat0028" x="1406" y="1279" width="703" height="634"/>
+	<SubTexture name="GF Dancing Beat0029" x="1406" y="1279" width="703" height="634"/>
+	<SubTexture name="GF Dancing Beat Mic0000" x="0" y="1913" width="703" height="634"/>
+	<SubTexture name="GF Dancing Beat Mic0001" x="703" y="1913" width="703" height="634"/>
+	<SubTexture name="GF Dancing Beat Mic0002" x="1406" y="1913" width="703" height="634"/>
+	<SubTexture name="GF Dancing Beat Mic0003" x="2109" y="1913" width="703" height="634"/>
+	<SubTexture name="GF Dancing Beat Mic0004" x="2812" y="1913" width="703" height="634"/>
+	<SubTexture name="GF Dancing Beat Mic0005" x="3515" y="1913" width="703" height="634"/>
+	<SubTexture name="GF Dancing Beat Mic0006" x="4218" y="1913" width="703" height="634"/>
+	<SubTexture name="GF Dancing Beat Mic0007" x="4921" y="1913" width="703" height="634"/>
+	<SubTexture name="GF Dancing Beat Mic0008" x="4921" y="1913" width="703" height="634"/>
+	<SubTexture name="GF Dancing Beat Mic0009" x="4921" y="1913" width="703" height="634"/>
+	<SubTexture name="GF Dancing Beat Mic0010" x="5624" y="1913" width="703" height="634"/>
+	<SubTexture name="GF Dancing Beat Mic0011" x="5624" y="1913" width="703" height="634"/>
+	<SubTexture name="GF Dancing Beat Mic0012" x="5624" y="1913" width="703" height="634"/>
+	<SubTexture name="GF Dancing Beat Mic0013" x="6327" y="1913" width="703" height="634"/>
+	<SubTexture name="GF Dancing Beat Mic0014" x="6327" y="1913" width="703" height="634"/>
+	<SubTexture name="GF Dancing Beat Mic0015" x="7030" y="1913" width="703" height="634"/>
+	<SubTexture name="GF Dancing Beat Mic0016" x="0" y="2547" width="703" height="634"/>
+	<SubTexture name="GF Dancing Beat Mic0017" x="703" y="2547" width="703" height="634"/>
+	<SubTexture name="GF Dancing Beat Mic0018" x="1406" y="2547" width="703" height="634"/>
+	<SubTexture name="GF Dancing Beat Mic0019" x="2109" y="2547" width="703" height="634"/>
+	<SubTexture name="GF Dancing Beat Mic0020" x="2812" y="2547" width="703" height="634"/>
+	<SubTexture name="GF Dancing Beat Mic0021" x="3515" y="2547" width="703" height="634"/>
+	<SubTexture name="GF Dancing Beat Mic0022" x="4218" y="2547" width="703" height="634"/>
+	<SubTexture name="GF Dancing Beat Mic0023" x="4218" y="2547" width="703" height="634"/>
+	<SubTexture name="GF Dancing Beat Mic0024" x="4218" y="2547" width="703" height="634"/>
+	<SubTexture name="GF Dancing Beat Mic0025" x="4921" y="2547" width="703" height="634"/>
+	<SubTexture name="GF Dancing Beat Mic0026" x="4921" y="2547" width="703" height="634"/>
+	<SubTexture name="GF Dancing Beat Mic0027" x="4921" y="2547" width="703" height="634"/>
+	<SubTexture name="GF Dancing Beat Mic0028" x="5624" y="2547" width="703" height="634"/>
+	<SubTexture name="GF Dancing Beat Mic0029" x="5624" y="2547" width="703" height="634"/>
+	<SubTexture name="GF Mic Down0000" x="6327" y="2547" width="703" height="622"/>
+	<SubTexture name="GF Mic Down0001" x="7030" y="2547" width="703" height="622"/>
+	<SubTexture name="GF Mic Down0002" x="0" y="3181" width="703" height="622"/>
+	<SubTexture name="GF Mic Down0003" x="703" y="3181" width="703" height="622"/>
+	<SubTexture name="GF Mic Down0004" x="1406" y="3181" width="703" height="622"/>
+	<SubTexture name="GF Mic Down0005" x="1406" y="3181" width="703" height="622"/>
+	<SubTexture name="GF Mic Down0006" x="1406" y="3181" width="703" height="622"/>
+	<SubTexture name="GF Mic Down0007" x="1406" y="3181" width="703" height="622"/>
+	<SubTexture name="GF Mic Down0008" x="1406" y="3181" width="703" height="622"/>
+	<SubTexture name="GF Mic Down0009" x="1406" y="3181" width="703" height="622"/>
+	<SubTexture name="GF Mic Down0010" x="1406" y="3181" width="703" height="622"/>
+	<SubTexture name="GF Mic Down0011" x="1406" y="3181" width="703" height="622"/>
+	<SubTexture name="GF Mic Down0012" x="1406" y="3181" width="703" height="622"/>
+	<SubTexture name="GF Mic Down0013" x="1406" y="3181" width="703" height="622"/>
+	<SubTexture name="GF Mic Down0014" x="1406" y="3181" width="703" height="622"/>
+	<SubTexture name="GF Mic Down0015" x="1406" y="3181" width="703" height="622"/>
+	<SubTexture name="GF Mic Down0016" x="1406" y="3181" width="703" height="622"/>
+	<SubTexture name="GF Mic Down0017" x="1406" y="3181" width="703" height="622"/>
+	<SubTexture name="GF Mic Down0018" x="1406" y="3181" width="703" height="622"/>
+	<SubTexture name="GF Mic Down0019" x="1406" y="3181" width="703" height="622"/>
+	<SubTexture name="GF Mic Left0000" x="2109" y="3181" width="703" height="623"/>
+	<SubTexture name="GF Mic Left0001" x="2812" y="3181" width="703" height="623"/>
+	<SubTexture name="GF Mic Left0002" x="3515" y="3181" width="703" height="623"/>
+	<SubTexture name="GF Mic Left0003" x="4218" y="3181" width="703" height="623"/>
+	<SubTexture name="GF Mic Left0004" x="4921" y="3181" width="703" height="623"/>
+	<SubTexture name="GF Mic Left0005" x="5624" y="3181" width="703" height="623"/>
+	<SubTexture name="GF Mic Left0006" x="6327" y="3181" width="703" height="623"/>
+	<SubTexture name="GF Mic Left0007" x="6327" y="3181" width="703" height="623"/>
+	<SubTexture name="GF Mic Left0008" x="7030" y="3181" width="703" height="623"/>
+	<SubTexture name="GF Mic Left0009" x="7030" y="3181" width="703" height="623"/>
+	<SubTexture name="GF Mic Left0010" x="7030" y="3181" width="703" height="623"/>
+	<SubTexture name="GF Mic Left0011" x="7030" y="3181" width="703" height="623"/>
+	<SubTexture name="GF Mic Left0012" x="7030" y="3181" width="703" height="623"/>
+	<SubTexture name="GF Mic Left0013" x="7030" y="3181" width="703" height="623"/>
+	<SubTexture name="GF Mic Left0014" x="7030" y="3181" width="703" height="623"/>
+	<SubTexture name="GF Mic Right0000" x="0" y="3804" width="703" height="623"/>
+	<SubTexture name="GF Mic Right0001" x="703" y="3804" width="703" height="623"/>
+	<SubTexture name="GF Mic Right0002" x="1406" y="3804" width="703" height="623"/>
+	<SubTexture name="GF Mic Right0003" x="2109" y="3804" width="703" height="623"/>
+	<SubTexture name="GF Mic Right0004" x="2812" y="3804" width="703" height="623"/>
+	<SubTexture name="GF Mic Right0005" x="3515" y="3804" width="703" height="623"/>
+	<SubTexture name="GF Mic Right0006" x="4218" y="3804" width="703" height="623"/>
+	<SubTexture name="GF Mic Right0007" x="4218" y="3804" width="703" height="623"/>
+	<SubTexture name="GF Mic Right0008" x="4921" y="3804" width="703" height="623"/>
+	<SubTexture name="GF Mic Right0009" x="4921" y="3804" width="703" height="623"/>
+	<SubTexture name="GF Mic Right0010" x="4921" y="3804" width="703" height="623"/>
+	<SubTexture name="GF Mic Right0011" x="4921" y="3804" width="703" height="623"/>
+	<SubTexture name="GF Mic Right0012" x="4921" y="3804" width="703" height="623"/>
+	<SubTexture name="GF Mic Right0013" x="4921" y="3804" width="703" height="623"/>
+	<SubTexture name="GF Mic Right0014" x="4921" y="3804" width="703" height="623"/>
+	<SubTexture name="GF Mic Up0000" x="5624" y="3804" width="703" height="649"/>
+	<SubTexture name="GF Mic Up0001" x="6327" y="3804" width="703" height="649"/>
+	<SubTexture name="GF Mic Up0002" x="7030" y="3804" width="703" height="649"/>
+	<SubTexture name="GF Mic Up0003" x="0" y="4453" width="703" height="649"/>
+	<SubTexture name="GF Mic Up0004" x="703" y="4453" width="703" height="649"/>
+	<SubTexture name="GF Mic Up0005" x="703" y="4453" width="703" height="649"/>
+	<SubTexture name="GF Mic Up0006" x="703" y="4453" width="703" height="649"/>
+	<SubTexture name="GF Sad Mic0000" x="1406" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0001" x="1406" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0002" x="2105" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0003" x="2105" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0004" x="2804" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0005" x="2804" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0006" x="3503" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0007" x="3503" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0008" x="4202" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0009" x="4202" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0010" x="2105" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0011" x="2105" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0012" x="2804" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0013" x="2804" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0014" x="3503" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0015" x="3503" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0016" x="4202" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0017" x="4202" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0018" x="2105" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0019" x="2105" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0020" x="2804" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0021" x="2804" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0022" x="3503" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0023" x="3503" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0024" x="4202" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0025" x="4202" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0026" x="2105" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0027" x="2105" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0028" x="2804" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0029" x="2804" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0030" x="3503" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0031" x="3503" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0032" x="4202" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0033" x="4202" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0034" x="2105" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0035" x="2105" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0036" x="2804" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0037" x="2804" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0038" x="3503" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0039" x="3503" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0040" x="4202" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0041" x="4202" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0042" x="2105" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0043" x="2105" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0044" x="2804" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0045" x="2804" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0046" x="3503" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0047" x="3503" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0048" x="4202" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0049" x="4202" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0050" x="2105" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0051" x="2105" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0052" x="2804" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0053" x="2804" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0054" x="3503" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0055" x="3503" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0056" x="4202" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0057" x="4202" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0058" x="2105" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0059" x="2105" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0060" x="2804" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0061" x="2804" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0062" x="3503" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0063" x="3503" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0064" x="4202" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0065" x="4202" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0066" x="2105" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0067" x="2105" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0068" x="2804" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0069" x="2804" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0070" x="3503" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0071" x="3503" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0072" x="4202" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0073" x="4202" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0074" x="2105" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0075" x="2105" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0076" x="2804" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0077" x="2804" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0078" x="3503" y="4453" width="699" height="622"/>
+	<SubTexture name="GF Sad Mic0079" x="3503" y="4453" width="699" height="622"/>
+	<SubTexture name="gf sad0000" x="2109" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0001" x="2109" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0002" x="2808" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0003" x="2808" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0004" x="3507" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0005" x="3507" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0006" x="4206" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0007" x="4206" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0008" x="4905" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0009" x="4905" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0010" x="2808" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0011" x="2808" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0012" x="3507" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0013" x="3507" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0014" x="4206" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0015" x="4206" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0016" x="4905" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0017" x="4905" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0018" x="2808" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0019" x="2808" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0020" x="3507" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0021" x="3507" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0022" x="4206" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0023" x="4206" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0024" x="4905" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0025" x="4905" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0026" x="2808" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0027" x="2808" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0028" x="3507" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0029" x="3507" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0030" x="4206" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0031" x="4206" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0032" x="4905" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0033" x="4905" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0034" x="2808" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0035" x="2808" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0036" x="3507" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0037" x="3507" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0038" x="4206" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0039" x="4206" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0040" x="4905" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0041" x="4905" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0042" x="2808" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0043" x="2808" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0044" x="3507" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0045" x="3507" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0046" x="4206" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0047" x="4206" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0048" x="4905" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0049" x="4905" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0050" x="2808" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0051" x="2808" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0052" x="3507" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0053" x="3507" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0054" x="4206" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0055" x="4206" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0056" x="4905" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0057" x="4905" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0058" x="2808" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0059" x="2808" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0060" x="3507" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0061" x="3507" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0062" x="4206" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0063" x="4206" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0064" x="4905" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0065" x="4905" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0066" x="2808" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0067" x="2808" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0068" x="3507" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0069" x="3507" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0070" x="4206" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0071" x="4206" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0072" x="4905" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0073" x="4905" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0074" x="2808" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0075" x="2808" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0076" x="3507" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0077" x="3507" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0078" x="4206" y="1279" width="699" height="622"/>
+	<SubTexture name="gf sad0079" x="4206" y="1279" width="699" height="622"/>
+</TextureAtlas>

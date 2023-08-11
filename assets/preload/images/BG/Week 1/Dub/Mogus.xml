@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Mogus.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="AmogusIdle instance 10000" x="0" y="0" width="599" height="630"/>
+	<SubTexture name="AmogusIdle instance 10001" x="0" y="0" width="599" height="630"/>
+	<SubTexture name="AmogusIdle instance 10002" x="599" y="0" width="599" height="630"/>
+	<SubTexture name="AmogusIdle instance 10003" x="599" y="0" width="599" height="630"/>
+	<SubTexture name="AmogusIdle instance 10004" x="1198" y="0" width="599" height="630"/>
+	<SubTexture name="AmogusIdle instance 10005" x="1198" y="0" width="599" height="630"/>
+	<SubTexture name="AmogusIdle instance 10006" x="0" y="630" width="599" height="630"/>
+	<SubTexture name="AmogusIdle instance 10007" x="0" y="630" width="599" height="630"/>
+	<SubTexture name="AmogusIdle instance 10008" x="599" y="630" width="599" height="630"/>
+	<SubTexture name="AmogusIdle instance 10009" x="599" y="630" width="599" height="630"/>
+	<SubTexture name="AmogusIdle instance 10010" x="599" y="630" width="599" height="630"/>
+	<SubTexture name="AmogusIdle instance 10011" x="599" y="630" width="599" height="630"/>
+	<SubTexture name="AmogusIdle instance 10012" x="599" y="630" width="599" height="630"/>
+	<SubTexture name="AmogusIdle instance 10013" x="599" y="630" width="599" height="630"/>
+</TextureAtlas>

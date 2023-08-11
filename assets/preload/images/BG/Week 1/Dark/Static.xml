@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Static.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="StaticBG0000" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="StaticBG0001" x="1280" y="0" width="1280" height="720"/>
+	<SubTexture name="StaticBG0002" x="2560" y="0" width="1280" height="720"/>
+	<SubTexture name="StaticBG0003" x="3840" y="0" width="1280" height="720"/>
+	<SubTexture name="StaticBG0004" x="5120" y="0" width="1280" height="720"/>
+	<SubTexture name="StaticBG0005" x="6400" y="0" width="1280" height="720"/>
+	<SubTexture name="StaticBG0006" x="0" y="720" width="1280" height="720"/>
+	<SubTexture name="StaticBG0007" x="1280" y="720" width="1280" height="720"/>
+	<SubTexture name="StaticBG0008" x="2560" y="720" width="1280" height="720"/>
+	<SubTexture name="StaticBG0009" x="3840" y="720" width="1280" height="720"/>
+	<SubTexture name="StaticBG0010" x="5120" y="720" width="1280" height="720"/>
+	<SubTexture name="StaticBG0011" x="6400" y="720" width="1280" height="720"/>
+	<SubTexture name="StaticBG0012" x="0" y="1440" width="1280" height="720"/>
+	<SubTexture name="StaticBG0013" x="1280" y="1440" width="1280" height="720"/>
+	<SubTexture name="StaticBG0014" x="2560" y="1440" width="1280" height="720"/>
+	<SubTexture name="StaticBG0015" x="3840" y="1440" width="1280" height="720"/>
+</TextureAtlas>

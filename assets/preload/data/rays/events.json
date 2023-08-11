@@ -1,0 +1,156 @@
+{
+	"song": {
+		"events": [
+			[
+				16800,
+				[
+					[
+						"Change Character",
+						"0",
+						"bfdalt"
+					]
+				]
+			],
+			[
+				19500,
+				[
+					[
+						"Change Character",
+						"0",
+						"bfd"
+					]
+				]
+			],
+			[
+				33750,
+				[
+					[
+						"Change Character",
+						"0",
+						"bfdalt"
+					]
+				]
+			],
+			[
+				34800,
+				[
+					[
+						"Change Character",
+						"0",
+						"bfd"
+					]
+				]
+			],
+			[
+				36000,
+				[
+					[
+						"Change Character",
+						"0",
+						"bfdalt"
+					]
+				]
+			],
+			[
+				76800,
+				[
+					[
+						"Change Character",
+						"0",
+						"bfd"
+					]
+				]
+			],
+			[
+				85125,
+				[
+					[
+						"Change Character",
+						"0",
+						"bfdalt"
+					]
+				]
+			],
+			[
+				97125,
+				[
+					[
+						"Change Character",
+						"0",
+						"bfd"
+					]
+				]
+			],
+			[
+				98325,
+				[
+					[
+						"Change Character",
+						"0",
+						"bfdalt"
+					]
+				]
+			],
+			[
+				99525,
+				[
+					[
+						"Change Character",
+						"0",
+						"bfd"
+					]
+				]
+			],
+			[
+				100725,
+				[
+					[
+						"Change Character",
+						"0",
+						"bfdalt"
+					]
+				]
+			],
+			[
+				101925,
+				[
+					[
+						"Change Character",
+						"0",
+						"bfd"
+					]
+				]
+			],
+			[
+				103125,
+				[
+					[
+						"Change Character",
+						"0",
+						"bfdalt"
+					]
+				]
+			],
+			[
+				124725,
+				[
+					[
+						"Change Character",
+						"0",
+						"bfd"
+					]
+				]
+			],
+			[
+				131925,
+				[
+					[
+						"Change Character",
+						"0",
+						"bfdalt"
+					]
+				]
+			]
+		]
+	}
+}

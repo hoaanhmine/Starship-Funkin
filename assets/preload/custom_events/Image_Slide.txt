@@ -1,0 +1,13 @@
+Makes an image slide onto screen, the image will stay for 5 seconds, but you can customize it in the LUA file
+
+Value 1:
+
+Image name
+
+
+Value 2:
+
+U - Comes from the Top
+D - Comes from the bottom
+R- Comes from the Right
+L - Comes from the Left

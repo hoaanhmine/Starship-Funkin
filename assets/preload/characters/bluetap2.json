@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				210,
+				-240
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "EVILBLUEIDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				249,
+				-258
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "EVILBLUELEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				161,
+				-279
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "EVILBLUEDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				200,
+				-141
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "EVILBLUEUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				194,
+				-263
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "EVILBLUERIGHT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BlueT2",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bluetap",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-160,
+		390
+	],
+	"sing_duration": 3.00000000000001,
+	"scale": 1
+}
