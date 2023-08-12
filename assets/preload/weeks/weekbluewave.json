@@ -9,7 +9,7 @@
 		253
 	],
 	"weekBefore": "weektap",
-	"startUnlocked": false,
+	"startUnlocked": true,
 	"weekCharacters": [
 		"",
 		"",
