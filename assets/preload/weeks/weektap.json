@@ -9,7 +9,7 @@
 		113,
 		253
 	],
-	"startUnlocked": false,
+	"startUnlocked": true,
 	"hideStoryMode": true,
 	"songs": [
 		[
@@ -27,6 +27,6 @@
 		"",
 		""
 	],
-	"hiddenUntilUnlocked": true,
+	"hiddenUntilUnlocked": false,
 	"weekName": ""
 }
